@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/zen_card"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="18dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="18dp"
+        app:cardCornerRadius="5dp"
+        app:cardBackgroundColor="#66FFCC">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="每日一言">
+            </TextView>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/kana_card"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="18dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="18dp"
+        app:cardCornerRadius="5dp"
+        app:cardBackgroundColor="#66FFCC">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="学假名">
+            </TextView>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/game_card"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="18dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="18dp"
+        app:cardCornerRadius="5dp"
+        app:cardBackgroundColor="#66FFCC">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="练习">
+            </TextView>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

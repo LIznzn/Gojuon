@@ -1,0 +1,372 @@
+[
+    {
+        "type": 2
+    },
+    {
+        "type": 0,
+        "value": "あ列"
+    },
+    {
+        "type": 0,
+        "value": "い列"
+    },
+    {
+        "type": 0,
+        "value": "う列"
+    },
+    {
+        "type": 0,
+        "value": "え列"
+    },
+    {
+        "type": 0,
+        "value": "お列"
+    },
+    {
+        "type": 0,
+        "value": "あ行"
+    },
+    {
+        "type": 1,
+        "hira": "あ",
+        "kata": "ア",
+        "roma": "a"
+    },
+    {
+        "type": 1,
+        "hira": "い",
+        "kata": "イ",
+        "roma": "i"
+    },
+    {
+        "type": 1,
+        "hira": "う",
+        "kata": "ウ",
+        "roma": "u"
+    },
+    {
+        "type": 1,
+        "hira": "え",
+        "kata": "エ",
+        "roma": "e"
+    },
+    {
+        "type": 1,
+        "hira": "お",
+        "kata": "オ",
+        "roma": "o"
+    },
+    {
+        "type": 0,
+        "value": "か行"
+    },
+    {
+        "type": 1,
+        "hira": "か",
+        "kata": "カ",
+        "roma": "ka"
+    },
+    {
+        "type": 1,
+        "hira": "き",
+        "kata": "キ",
+        "roma": "ki"
+    },
+    {
+        "type": 1,
+        "hira": "く",
+        "kata": "ク",
+        "roma": "ku"
+    },
+    {
+        "type": 1,
+        "hira": "け",
+        "kata": "ケ",
+        "roma": "ke"
+    },
+    {
+        "type": 1,
+        "hira": "こ",
+        "kata": "コ",
+        "roma": "ko"
+    },
+    {
+        "type": 0,
+        "value": "さ行"
+    },
+    {
+        "type": 1,
+        "hira": "さ",
+        "kata": "サ",
+        "roma": "sa"
+    },
+    {
+        "type": 1,
+        "hira": "し",
+        "kata": "シ",
+        "roma": "shi"
+    },
+    {
+        "type": 1,
+        "hira": "す",
+        "kata": "ス",
+        "roma": "su"
+    },
+    {
+        "type": 1,
+        "hira": "せ",
+        "kata": "セ",
+        "roma": "se"
+    },
+    {
+        "type": 1,
+        "hira": "そ",
+        "kata": "ソ",
+        "roma": "so"
+    },
+    {
+        "type": 0,
+        "value": "た行"
+    },
+    {
+        "type": 1,
+        "hira": "た",
+        "kata": "タ",
+        "roma": "ta"
+    },
+    {
+        "type": 1,
+        "hira": "ち",
+        "kata": "チ",
+        "roma": "chi"
+    },
+    {
+        "type": 1,
+        "hira": "つ",
+        "kata": "ツ",
+        "roma": "tsu"
+    },
+    {
+        "type": 1,
+        "hira": "て",
+        "kata": "テ",
+        "roma": "te"
+    },
+    {
+        "type": 1,
+        "hira": "と",
+        "kata": "ト",
+        "roma": "to"
+    },
+    {
+        "type": 0,
+        "value": "な行"
+    },
+    {
+        "type": 1,
+        "hira": "な",
+        "kata": "ナ",
+        "roma": "na"
+    },
+    {
+        "type": 1,
+        "hira": "に",
+        "kata": "ニ",
+        "roma": "ni"
+    },
+    {
+        "type": 1,
+        "hira": "ぬ",
+        "kata": "ヌ",
+        "roma": "nu"
+    },
+    {
+        "type": 1,
+        "hira": "ね",
+        "kata": "ネ",
+        "roma": "ne"
+    },
+    {
+        "type": 1,
+        "hira": "の",
+        "kata": "ノ",
+        "roma": "no"
+    },
+    {
+        "type": 0,
+        "value": "は行"
+    },
+    {
+        "type": 1,
+        "hira": "は",
+        "kata": "ハ",
+        "roma": "ha"
+    },
+    {
+        "type": 1,
+        "hira": "ひ",
+        "kata": "ヒ",
+        "roma": "hi"
+    },
+    {
+        "type": 1,
+        "hira": "ふ",
+        "kata": "フ",
+        "roma": "fu"
+    },
+    {
+        "type": 1,
+        "hira": "へ",
+        "kata": "ヘ",
+        "roma": "he"
+    },
+    {
+        "type": 1,
+        "hira": "ほ",
+        "kata": "ホ",
+        "roma": "ho"
+    },
+    {
+        "type": 0,
+        "value": "ま行"
+    },
+    {
+        "type": 1,
+        "hira": "ま",
+        "kata": "マ",
+        "roma": "ma"
+    },
+    {
+        "type": 1,
+        "hira": "み",
+        "kata": "ミ",
+        "roma": "mi"
+    },
+    {
+        "type": 1,
+        "hira": "む",
+        "kata": "ム",
+        "roma": "mu"
+    },
+    {
+        "type": 1,
+        "hira": "め",
+        "kata": "メ",
+        "roma": "me"
+    },
+    {
+        "type": 1,
+        "hira": "も",
+        "kata": "モ",
+        "roma": "mo"
+    },
+    {
+        "type": 0,
+        "value": "や行"
+    },
+    {
+        "type": 1,
+        "hira": "や",
+        "kata": "ヤ",
+        "roma": "ya"
+    },
+    {
+        "type": 2
+    },
+    {
+        "type": 1,
+        "hira": "ゆ",
+        "kata": "ユ",
+        "roma": "yu"
+    },
+    {
+        "type": 2
+    },
+    {
+        "type": 1,
+        "hira": "よ",
+        "kata": "ヨ",
+        "roma": "yo"
+    },
+    {
+        "type": 0,
+        "value": "ら行"
+    },
+    {
+        "type": 1,
+        "hira": "ら",
+        "kata": "ラ",
+        "roma": "ra"
+    },
+    {
+        "type": 1,
+        "hira": "り",
+        "kata": "リ",
+        "roma": "ri"
+    },
+    {
+        "type": 1,
+        "hira": "る",
+        "kata": "ル",
+        "roma": "ru"
+    },
+    {
+        "type": 1,
+        "hira": "れ",
+        "kata": "レ",
+        "roma": "re"
+    },
+    {
+        "type": 1,
+        "hira": "る",
+        "kata": "ロ",
+        "roma": "ro"
+    },
+    {
+        "type": 0,
+        "value": "わ行"
+    },
+    {
+        "type": 1,
+        "hira": "わ",
+        "kata": "ワ",
+        "roma": "wa"
+    },
+    {
+        "type": 2
+    },
+    {
+        "type": 2
+    },
+    {
+        "type": 2
+    },
+    {
+        "type": 1,
+        "hira": "を",
+        "kata": "ヲ",
+        "roma": "wo"
+    },
+    {
+        "type": 0,
+        "value": "ん行"
+    },
+    {
+        "type": 1,
+        "hira": "ん",
+        "kata": "ン",
+        "roma": "n"
+    },
+    {
+        "type": 2
+    },
+    {
+        "type": 2
+    },
+    {
+        "type": 2
+    },
+    {
+        "type": 2
+    }
+]

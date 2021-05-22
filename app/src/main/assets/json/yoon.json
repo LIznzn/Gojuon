@@ -1,0 +1,259 @@
+[
+    {
+        "type": 2
+    },
+    {
+        "type": 0,
+        "value": "や列"
+    },
+    {
+        "type": 0,
+        "value": "ゆ列"
+    },
+    {
+        "type": 0,
+        "value": "よ列"
+    },
+    {
+        "type": 0,
+        "value": "き行"
+    },
+    {
+        "type": 1,
+        "hira": "きゃ",
+        "kata": "キャ",
+        "roma": "kya"
+    },
+    {
+        "type": 1,
+        "hira": "きゅ",
+        "kata": "キュ",
+        "roma": "kyu"
+    },
+    {
+        "type": 1,
+        "hira": "きょ",
+        "kata": "キョ",
+        "roma": "kyo"
+    },
+    {
+        "type": 0,
+        "value": "し行"
+    },
+    {
+        "type": 1,
+        "hira": "しゃ",
+        "kata": "シャ",
+        "roma": "sha"
+    },
+    {
+        "type": 1,
+        "hira": "しゅ",
+        "kata": "シュ",
+        "roma": "shu"
+    },
+    {
+        "type": 1,
+        "hira": "しょ",
+        "kata": "ショ",
+        "roma": "sho"
+    },
+    {
+        "type": 0,
+        "value": "さ行"
+    },
+    {
+        "type": 1,
+        "hira": "ちゃ",
+        "kata": "チャ",
+        "roma": "cha"
+    },
+    {
+        "type": 1,
+        "hira": "ちゅ",
+        "kata": "チュ",
+        "roma": "chu"
+    },
+    {
+        "type": 1,
+        "hira": "ちょ",
+        "kata": "チョ",
+        "roma": "cho"
+    },
+    {
+        "type": 0,
+        "value": "に行"
+    },
+    {
+        "type": 1,
+        "hira": "にゃ",
+        "kata": "ニャ",
+        "roma": "nya"
+    },
+    {
+        "type": 1,
+        "hira": "にゅ",
+        "kata": "ニュ",
+        "roma": "nyu"
+    },
+    {
+        "type": 1,
+        "hira": "にょ",
+        "kata": "ニョ",
+        "roma": "nyo"
+    },
+    {
+        "type": 0,
+        "value": "ひ行"
+    },
+    {
+        "type": 1,
+        "hira": "ひゃ",
+        "kata": "ヒャ",
+        "roma": "hya"
+    },
+    {
+        "type": 1,
+        "hira": "ひゅ",
+        "kata": "ヒュ",
+        "roma": "hyu"
+    },
+    {
+        "type": 1,
+        "hira": "ひょ",
+        "kata": "ヒョ",
+        "roma": "hyo"
+    },
+    {
+        "type": 0,
+        "value": "み行"
+    },
+    {
+        "type": 1,
+        "hira": "みゃ",
+        "kata": "ミャ",
+        "roma": "mya"
+    },
+    {
+        "type": 1,
+        "hira": "みゅ",
+        "kata": "ミュ",
+        "roma": "myu"
+    },
+    {
+        "type": 1,
+        "hira": "みょ",
+        "kata": "ミョ",
+        "roma": "myo"
+    },
+    {
+        "type": 0,
+        "value": "り行"
+    },
+    {
+        "type": 1,
+        "hira": "りゃ",
+        "kata": "リャ",
+        "roma": "rya"
+    },
+    {
+        "type": 1,
+        "hira": "りゅ",
+        "kata": "リュ",
+        "roma": "ryu"
+    },
+    {
+        "type": 1,
+        "hira": "きょ",
+        "kata": "リョ",
+        "roma": "ryo"
+    },
+    {
+        "type": 0,
+        "value": "ぎ行"
+    },
+    {
+        "type": 1,
+        "hira": "ぎゃ",
+        "kata": "ギャ",
+        "roma": "gya"
+    },
+    {
+        "type": 1,
+        "hira": "ぎゅ",
+        "kata": "ギュ",
+        "roma": "gyu"
+    },
+    {
+        "type": 1,
+        "hira": "ぎょ",
+        "kata": "ギョ",
+        "roma": "gyo"
+    },
+    {
+        "type": 0,
+        "value": "じ行"
+    },
+    {
+        "type": 1,
+        "hira": "じゃ",
+        "kata": "ジャ",
+        "roma": "ja"
+    },
+    {
+        "type": 1,
+        "hira": "じゅ",
+        "kata": "ジュ",
+        "roma": "ju"
+    },
+    {
+        "type": 1,
+        "hira": "じょ",
+        "kata": "ジョ",
+        "roma": "jo"
+    },
+    {
+        "type": 0,
+        "value": "び行"
+    },
+    {
+        "type": 1,
+        "hira": "びゃ",
+        "kata": "ビャ",
+        "roma": "bya"
+    },
+    {
+        "type": 1,
+        "hira": "びゅ",
+        "kata": "ビュ",
+        "roma": "byu"
+    },
+    {
+        "type": 1,
+        "hira": "びょ",
+        "kata": "ビョ",
+        "roma": "byo"
+    },
+    {
+        "type": 0,
+        "value": "ぴ行"
+    },
+    {
+        "type": 1,
+        "hira": "ぴゃ",
+        "kata": "ピャ",
+        "roma": "pya"
+    },
+    {
+        "type": 1,
+        "hira": "ぴゅ",
+        "kata": "ピュ",
+        "roma": "pyu"
+    },
+    {
+        "type": 1,
+        "hira": "ぴょ",
+        "kata": "ピョ",
+        "roma": "pyo"
+    }
+]

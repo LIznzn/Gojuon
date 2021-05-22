@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/about">
+
+        <Preference
+            app:key="version"
+            app:title="@string/version"
+            app:summary= "" />
+
+        <Preference
+            app:key="customize_text"
+            app:title="Developer"
+            app:summary="Team" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
